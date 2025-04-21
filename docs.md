@@ -1,1 +1,2 @@
-My first file
+My first file.
+This is the first change made to the file.
